@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_OA</name>
+   <tag></tag>
+   <elementGuidId>c3d6f8b7-b209-4201-ba4f-ace5c9456761</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.avatar-initial.bg-primary.rounded-circle</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navbar-collapse']/ul/li[4]/a/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>046d495c-822c-41f1-900b-1cefb50e0b7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>avatar-initial bg-primary rounded-circle</value>
+      <webElementGuid>880127fa-20e8-4edb-b601-5a65f6c451d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>OA</value>
+      <webElementGuid>a2167c23-6339-4da1-b78e-fa97aecb5555</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbar-collapse&quot;)/ul[@class=&quot;navbar-nav flex-row align-items-center ms-auto&quot;]/li[@class=&quot;nav-item navbar-dropdown dropdown-user dropdown&quot;]/a[@class=&quot;nav-link dropdown-toggle hide-arrow show&quot;]/div[@class=&quot;avatar me-2 avatar-online&quot;]/span[@class=&quot;avatar-initial bg-primary rounded-circle&quot;]</value>
+      <webElementGuid>9b49ac8c-7542-430a-b0a6-7ec9fd687c15</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navbar-collapse']/ul/li[4]/a/div/span</value>
+      <webElementGuid>f874db6c-9df1-406a-bd8f-a9d51adacea5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account Settings'])[2]/following::span[1]</value>
+      <webElementGuid>0fe0d907-3edb-402b-a8e7-af659281e9f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Setting'])[1]/following::span[1]</value>
+      <webElementGuid>589a7a68-da45-4723-962d-e99e09828b22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OA'])[2]/preceding::span[1]</value>
+      <webElementGuid>2b643f69-cc4e-425c-8dcc-d0aba0598a38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Obaloluwa Abioye'])[1]/preceding::span[2]</value>
+      <webElementGuid>f7a7a77f-92d9-4491-b833-c924b1ea6cff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='OA']/parent::*</value>
+      <webElementGuid>18ec936e-3c55-49b3-b928-4503edc35fcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/span</value>
+      <webElementGuid>4750065e-76d9-4340-984c-365ff0e83c32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'OA' or . = 'OA')]</value>
+      <webElementGuid>741908a3-61ab-499b-90b4-1c8c2f6c54e4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

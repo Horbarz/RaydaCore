@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Forgot Password_bx bx-hide</name>
+   <tag></tag>
+   <elementGuidId>484cfeef-6b14-4ca0-9755-8391a64f3521</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.bx.bx-hide</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[3]/div[2]/div/div/form/div[2]/div[2]/span/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>b2678ef3-ca0d-4c39-8461-00d7c7da33d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bx bx-hide</value>
+      <webElementGuid>f4e344b3-b4e8-4d79-94a4-685c9c89de37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;imageFlexContainer&quot;]/div[@class=&quot;custom_container_aside_right&quot;]/div[@class=&quot;login_container&quot;]/div[@class=&quot;card-body&quot;]/form[@class=&quot;mb-3&quot;]/div[@class=&quot;form-password-toggle mb-3&quot;]/div[@class=&quot;input-group input-group-merge&quot;]/span[@class=&quot;input-group-text cursor-pointer&quot;]/i[@class=&quot;bx bx-hide&quot;]</value>
+      <webElementGuid>eef6656d-2c37-446c-b0b9-6a90efcedcee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[3]/div[2]/div/div/form/div[2]/div[2]/span/i</value>
+      <webElementGuid>e3a21ee8-1f4d-4a47-bdd1-6cbbd7ea9534</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+      <webElementGuid>a177b785-c347-4af3-bdd0-b6e4e3d2439d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
